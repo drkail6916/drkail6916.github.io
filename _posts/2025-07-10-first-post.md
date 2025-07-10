@@ -1,0 +1,13 @@
+---
+title: "블로그 시작"
+excerpt: "github.io 블로그 진짜 시작합니다."
+
+categories:
+    - Blog
+tags:
+    - Blog
+---
+
+일단 열심히 따라하면서 글을 작성해보자.
+
+이중 괄호 구문으로 제목 표기 : {{ page.title }}
