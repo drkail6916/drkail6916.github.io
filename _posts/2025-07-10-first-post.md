@@ -3,9 +3,9 @@ title: "블로그 시작"
 excerpt: "github.io 블로그 진짜 시작합니다."
 
 categories:
-    - Blog
+  - Blog
 tags:
-    - Blog
+  - Blog
 ---
 
 일단 열심히 따라하면서 글을 작성해보자.
