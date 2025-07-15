@@ -115,8 +115,8 @@ author:
   name: "데이터사이언티스트를 꿈꾸는 컴맹"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "컴맹이에오..."
-  location: "South Korea"
-  email: "drkail6916.work@gmail.com"
+  location: "대한민국"
+  email:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -275,12 +275,12 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
