@@ -1,9 +1,8 @@
 ---
-title: "이 블로그는?"
+title: "이 블로그는 무엇?"
 permalink: /about/
 layout: single
+author_profile: true
 ---
 
-## drkail6916.github.io 블로그
-
-본 블로그는 Github Pages 블로그 서비스인 github.io를 만들어보고 있는 중이다.
+Github Pages 블로그 서비스인 github.io를 이용해 포트폴리오를 관리해보려는 블로그이다.
