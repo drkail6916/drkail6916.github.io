@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "블로그 방문"
+  - title: "Home"
     url: https://drkail6916.github.io
+  - title: "AIFFEL"
+    url: /aiffel/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
